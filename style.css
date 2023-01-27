@@ -1,0 +1,12 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #33FFF9;
+  font-family: 'Noto Sans', sans-serif;
+}
+footer{
+  background-color: #00FA5B;
+}
+header{
+  background-color: #00FA66;
+}
